@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+/*
 int main()
 {
 	float H, W, area;
@@ -27,3 +27,4 @@ int main()
 
 	return 0;
 }
+*/

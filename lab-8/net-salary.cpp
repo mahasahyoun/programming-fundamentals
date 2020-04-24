@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+/*
 int main()
 {
 	float basic_salary, tax, sales, bonus, net_salary;
@@ -68,3 +68,5 @@ int main()
 			
 	return 0;
 }
+*/
+
