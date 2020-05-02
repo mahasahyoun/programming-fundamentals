@@ -29,7 +29,7 @@ int main()
 			{
 				if (marital_status == 'W')
 				{
-					cout << "Widowed";
+					cout << "Widow";
 				}
 				else
 				{
